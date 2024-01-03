@@ -18,7 +18,7 @@ Before running the Weather App, ensure you have the following installed:
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ritish134/Weather-app
+   git clone https://github.com/Ritish134/Weather-app.git
 2. Navigate to the project directory:
    ```bash
    cd weather-app
