@@ -1,6 +1,8 @@
 # Weather App
 <a href='https://weather-app-xivtech.netlify.app/'>Visit Here</a>
 
+![weather](https://github.com/Ritish134/Weather-app/assets/121374890/dd42d8d1-b4be-4179-b421-39be7eaf4d38)
+
 ## Overview
 The Weather App is a web application that allows users to get real-time weather information for multiple cities. Users can input a list of cities, and the application will fetch and display the current weather conditions for each city.
 
